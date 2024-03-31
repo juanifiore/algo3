@@ -1,0 +1,11577 @@
+B: segundo ELSE
+max_ataque:0
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:0
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:0
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:0
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+2
+mejores_delanteros:
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:0
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+3
+mejores_delanteros:
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:0
+max_actual:50
+mejor_ataque_actual: 
+0
+1
+2
+3
+4
+mejores_delanteros:
+B: max_actual > max_ataque or... 
+ASIGNACION
+max_ataque:0
+max_actual:50
+mejor_ataque_actual: 
+0
+1
+2
+3
+4
+mejores_delanteros:
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+2
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+2
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+2
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+2
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+2
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+2
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+2
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+1
+3
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+3
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+3
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+3
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+1
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+1
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+1
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+1
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+1
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+1
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+1
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+1
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+2
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+2
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+2
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+0
+2
+3
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+0
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+3
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+3
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+3
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+2
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+2
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+2
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+2
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+2
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+2
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+2
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+2
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+3
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+3
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+3
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+3
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+3
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+0
+3
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+0
+3
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+0
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+3
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+3
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+3
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+3
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+3
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+4
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+4
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+4
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+0
+4
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+0
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+0
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+0
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+0
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:14
+mejor_ataque_actual: 
+0
+5
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+0
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+0
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+0
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+0
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+0
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+0
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+0
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+1
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+1
+2
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+1
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+1
+2
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+1
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+1
+2
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+1
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:41
+mejor_ataque_actual: 
+1
+2
+3
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:40
+mejor_ataque_actual: 
+1
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+3
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+3
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+3
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+2
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+2
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+2
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+2
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+2
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+2
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+2
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+2
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+3
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+3
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+3
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+3
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+3
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+1
+3
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+1
+3
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+1
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+3
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+3
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+3
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+3
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+3
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+4
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+4
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+4
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+1
+4
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+1
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+1
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+1
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+1
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:14
+mejor_ataque_actual: 
+1
+5
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+1
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+1
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+1
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+1
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+1
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+1
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+1
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+2
+3
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+2
+3
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+2
+3
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+2
+3
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+2
+3
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:32
+mejor_ataque_actual: 
+2
+3
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:31
+mejor_ataque_actual: 
+2
+3
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:30
+mejor_ataque_actual: 
+2
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+3
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+3
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+3
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+3
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+3
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+4
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+4
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+4
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+2
+4
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+2
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+2
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+2
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+2
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:14
+mejor_ataque_actual: 
+2
+5
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+2
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+2
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+2
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+2
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+2
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+2
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+2
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+3
+4
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+3
+4
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+3
+4
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:23
+mejor_ataque_actual: 
+3
+4
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:22
+mejor_ataque_actual: 
+3
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:21
+mejor_ataque_actual: 
+3
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:20
+mejor_ataque_actual: 
+3
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+3
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:14
+mejor_ataque_actual: 
+3
+5
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+3
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+3
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+3
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+3
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+3
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+3
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+3
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+4
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: mejor_ataque_actual.size() == 5 or i==10
+max_ataque:50
+max_actual:14
+mejor_ataque_actual: 
+4
+5
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+B: primer else
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+4
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+4
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+4
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:13
+mejor_ataque_actual: 
+4
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:12
+mejor_ataque_actual: 
+4
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:11
+mejor_ataque_actual: 
+4
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:10
+mejor_ataque_actual: 
+4
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:3
+mejor_ataque_actual: 
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:4
+mejor_ataque_actual: 
+5
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:3
+mejor_ataque_actual: 
+5
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:3
+mejor_ataque_actual: 
+5
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+5
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:3
+mejor_ataque_actual: 
+5
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+5
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+5
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+5
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:3
+mejor_ataque_actual: 
+6
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+6
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+6
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+6
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:2
+mejor_ataque_actual: 
+7
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+7
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:1
+mejor_ataque_actual: 
+8
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+B: segundo ELSE
+max_ataque:50
+max_actual:0
+mejor_ataque_actual: 
+mejores_delanteros:
+0
+1
+2
+3
+4
+F: sumaDeHabilidad
+F: sumaDeHabilidad
+F: obtenerDefensores
+F: pertenece
+F: pertenece
+F: pertenece
+F: pertenece
+F: pertenece
+F: pertenece
+F: pertenece
+F: pertenece
+F: pertenece
+F: pertenece
+Case 1:
+(a,b,c,d,e)
+(f,g,h,i,j)
