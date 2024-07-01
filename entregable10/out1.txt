@@ -1,0 +1,301 @@
+0
+0
+0
+Contenido del map anidado:
+Clave exterior: (0, 0)
+  Clave interior: (0, 10), Valor: 100
+Clave exterior: (0, 10)
+  Clave interior: (0, 0), Valor: 100
+  Clave interior: (0, 30), Valor: 200
+Clave exterior: (0, 30)
+  Clave interior: (0, 10), Valor: 200
+  Clave interior: (0, 40), Valor: 100
+Clave exterior: (0, 40)
+  Clave interior: (0, 30), Valor: 100
+Clave exterior: (1, 0)
+  Clave interior: (1, 20), Valor: 1000
+Clave exterior: (1, 20)
+  Clave interior: (1, 0), Valor: 1000
+  Clave interior: (1, 30), Valor: 500
+Clave exterior: (1, 30)
+  Clave interior: (1, 20), Valor: 500
+Clave exterior: (2, 0)
+  Clave interior: (2, 20), Valor: 2000
+Clave exterior: (2, 20)
+  Clave interior: (2, 0), Valor: 2000
+  Clave interior: (2, 50), Valor: 3000
+Clave exterior: (2, 50)
+  Clave interior: (2, 20), Valor: 3000
+0
+Contenido del unordered_set:
+600 220 200 250 120 100 40 30 10 650 130 0 
+
+Contenido del map anidado:
+Clave exterior: (0, 0)
+  Clave interior: (0, 10), Valor: 100
+  Clave interior: (1, 0), Valor: 60
+  Clave interior: (2, 0), Valor: 60
+Clave exterior: (0, 10)
+  Clave interior: (0, 0), Valor: 100
+  Clave interior: (0, 30), Valor: 200
+Clave exterior: (0, 30)
+  Clave interior: (0, 10), Valor: 200
+  Clave interior: (0, 40), Valor: 100
+  Clave interior: (1, 30), Valor: 60
+Clave exterior: (0, 40)
+  Clave interior: (0, 30), Valor: 100
+Clave exterior: (1, 0)
+  Clave interior: (0, 0), Valor: 60
+  Clave interior: (1, 20), Valor: 1000
+  Clave interior: (2, 0), Valor: 60
+Clave exterior: (1, 20)
+  Clave interior: (1, 0), Valor: 1000
+  Clave interior: (1, 30), Valor: 500
+  Clave interior: (2, 20), Valor: 60
+Clave exterior: (1, 30)
+  Clave interior: (0, 30), Valor: 60
+  Clave interior: (1, 20), Valor: 500
+Clave exterior: (2, 0)
+  Clave interior: (0, 0), Valor: 60
+  Clave interior: (1, 0), Valor: 60
+  Clave interior: (2, 20), Valor: 2000
+Clave exterior: (2, 20)
+  Clave interior: (1, 20), Valor: 60
+  Clave interior: (2, 0), Valor: 2000
+  Clave interior: (2, 50), Valor: 3000
+Clave exterior: (2, 50)
+  Clave interior: (2, 20), Valor: 3000
+  Clave interior: (6, 50), Valor: 0
+Clave exterior: (6, 0)
+  Clave interior: (0, 0), Valor: 0
+  Clave interior: (1, 0), Valor: 0
+  Clave interior: (2, 0), Valor: 0
+V/S
+Contenido del unordered_set:
+220 200 250 120 100 40 30 10 650 130 0 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 2147483647
+Clave: (0,30), Valor: 2147483647
+Clave: (0,40), Valor: 2147483647
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 2147483647
+Clave: (1,30), Valor: 2147483647
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2147483647
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 120 100 40 30 10 650 130 0 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 2147483647
+Clave: (0,30), Valor: 2147483647
+Clave: (0,40), Valor: 2147483647
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 2147483647
+Clave: (1,30), Valor: 2147483647
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2000
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 120 40 30 10 650 130 0 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 2147483647
+Clave: (0,30), Valor: 2147483647
+Clave: (0,40), Valor: 2147483647
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 1000
+Clave: (1,30), Valor: 2147483647
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2000
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 120 40 30 10 650 130 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 2147483647
+Clave: (0,40), Valor: 2147483647
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 1000
+Clave: (1,30), Valor: 2147483647
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2000
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 120 40 30 650 130 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 2147483647
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 1000
+Clave: (1,30), Valor: 2147483647
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2000
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 120 40 650 130 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 400
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 1000
+Clave: (1,30), Valor: 360
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2000
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 120 40 650 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 400
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 860
+Clave: (1,30), Valor: 360
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2000
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 120 650 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 400
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 860
+Clave: (1,30), Valor: 360
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 2000
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+220 250 650 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 400
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 860
+Clave: (1,30), Valor: 360
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 920
+Clave: (2,50), Valor: 2147483647
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+250 650 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 400
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 860
+Clave: (1,30), Valor: 360
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 920
+Clave: (2,50), Valor: 3920
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 2147483647
+
+
+V/S
+Contenido del unordered_set:
+650 
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 400
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 860
+Clave: (1,30), Valor: 360
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 920
+Clave: (2,50), Valor: 3920
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 3920
+
+
+V/S
+Contenido del unordered_set:
+
+DISTANCIAS
+Elementos del map:
+Clave: (0,0), Valor: 0
+Clave: (0,10), Valor: 100
+Clave: (0,30), Valor: 300
+Clave: (0,40), Valor: 400
+Clave: (1,0), Valor: 0
+Clave: (1,20), Valor: 860
+Clave: (1,30), Valor: 360
+Clave: (2,0), Valor: 0
+Clave: (2,20), Valor: 920
+Clave: (2,50), Valor: 3920
+Clave: (6,0), Valor: 0
+Clave: (6,50), Valor: 3920
+
+
+3920

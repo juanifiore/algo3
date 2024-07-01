@@ -28,7 +28,14 @@ vector<int> greedy(string& s, string& t, int n){
 	if((a + b) % 2 == 1) return vector<int>();
 
 	//inicializo vector donde voy a guardar los swaps
+	//el swap lo guardo de la forma:
+	//	swaps[i] indexado en s, intercambia con swap[i+1] indexado en t
 	int m;
+	// si la cantidad de pares a_b es  par, entonces la cantidad de b_a es par tambien
+	//
+	// si es impar, entonces ambas son impares, y debo sumarle 2 a la longitud del arreglo.. 
+	// ..para agregar un swap mas
+	
 	if(a%2 == 0){
 		m = a+b;
 	} else {

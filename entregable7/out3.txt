@@ -1,0 +1,28 @@
+Villa #1
+The problem can be solved in 19 steps:
+- Switch on light in room 5.
+- Move to room 5.
+- Switch on light in room 4.
+- Switch on light in room 7.
+- Move to room 7.
+- Switch on light in room 3.
+- Move to room 5.
+- Move to room 1.
+- Move to room 4.
+- Switch off light in room 1.
+- Switch off light in room 5.
+- Move to room 3.
+- Switch off light in room 4.
+- Switch on light in room 10.
+- Move to room 10.
+- Move to room 7.
+- Switch off light in room 3.
+- Move to room 10.
+- Switch off light in room 7.
+
+Villa #2
+The problem cannot be solved.
+
+Villa #3
+The problem cannot be solved.
+
